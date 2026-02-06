@@ -71,6 +71,12 @@ ascp -h
 ~/anaconda3/pkgs/aspera-cli-3.9.6-h5e1937b_0/etc/asperaweb_id_dsa.openssh
 ```
 
+5. Install python package
+
+```
+pip install requests
+```
+
 ## 🏃 How to Run
 
 - Starting the tool
