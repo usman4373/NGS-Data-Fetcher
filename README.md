@@ -46,7 +46,6 @@
     
 ```
 git clone https://github.com/usman4373/NGS-Data-Fetcher
-tar -xvf NGS-Data-Fetcher-main.zip
 cd NGS-Data-Fetcher-main
 ```
 
